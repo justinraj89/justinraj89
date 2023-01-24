@@ -1,5 +1,5 @@
 ### Hi there, I'm Justin ✌🏽
-<h3>Reach me via:</h3>
+<h3>Reach me at:</h3>
 <div id="badges">
 <a href="https://www.linkedin.com/in/justinrajewski89/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
