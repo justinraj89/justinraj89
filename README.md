@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Justin
+
+<h3>Reach me via:</h3>
+<div id="badges">
+<a href="https://www.linkedin.com/in/justinrajewski89/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="mailto:rajewskijustin@gmail.com?subject=GitHub%20Contact">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <!--
 **justinraj89/justinraj89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
