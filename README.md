@@ -10,7 +10,7 @@
 </a>
 <br/>
 <br>
-I'm a former cinemma camera lens repair technician who made a career-change to become a Software Developer. I recently graduated from General Assembly's 3-month Software Engineering Immersive program and am open to work for my first Junior Developer role. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
+I'm a former cinemma camera lens repair technician who made a career-change to become a Software Developer. I recently graduated from General Assembly's 3-month Software Engineering Immersive program and am open to work for my first Junior Developer role. I'm passionate about building applications that balance functionality and design to pleasant, intuitive user experiences.
 <br>
 <h2>My Current Dev Skills/Tech</h2>
 <hr>
