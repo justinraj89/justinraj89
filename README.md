@@ -1,4 +1,4 @@
-### Hi there, I'm Justin ✌🏽
+### Hi, I'm Justin ✌🏽
 <h3>Reach me at:</h3>
 <div id="badges">
 <a href="https://www.linkedin.com/in/justinrajewski89/">
