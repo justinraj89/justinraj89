@@ -9,7 +9,7 @@
 </a>
 <br/>
 <br>
-I'm a former cinema camera lens repair technician who made a career-change to become a Software Developer. I recently graduated from General Assembly's  Software Engineering Immersive program and am open to work for my first Junior Developer role. I'm passionate about building applications that balance functionality and design to deliver pleasant, intuitive user experiences.
+I'm a former camera lens repair technician who made a career-change to become a Software Developer. I recently graduated from General Assembly's  Software Engineering Immersive program and am open to work for my first Junior Developer role. I'm passionate about building applications that balance functionality and design to deliver pleasant, intuitive user experiences.
 <br>
 <hr>
 <h3>Languages/Databases/Frameworks</h3>
